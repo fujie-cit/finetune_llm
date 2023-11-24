@@ -1,0 +1,14 @@
+transformers
+accelerate
+bitsandbytes
+peft
+datasets
+
+torch
+scipy
+
+pandas
+openpyxl
+
+ipython
+jupyter
