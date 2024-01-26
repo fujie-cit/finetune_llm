@@ -4,3 +4,6 @@ xlsx_example/valid.xlsx
 xlsx_example/dataset_tokenized
 xlsx_example/lora-calm-3b-results
 
+kitazawa/lora-calm-3b
+kitazawa/lora-calm-3b-results
+kitazawa/dataset_tokenized
