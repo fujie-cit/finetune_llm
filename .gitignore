@@ -11,3 +11,7 @@ kitazawa/dataset_tokenized
 kitazawa7b/lora*
 kitazawa7b/results
 kitazawa7b/dataset_tokenized
+
+tanase/data
+tanase/data_all.xlsx
+tanase/data.zip
