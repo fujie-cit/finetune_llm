@@ -13,5 +13,6 @@ kitazawa7b/results
 kitazawa7b/dataset_tokenized
 
 tanase/data
-tanase/data_all.xlsx
 tanase/data.zip
+tanase/*.xlsx
+tanase/dataset_*
