@@ -7,3 +7,7 @@ xlsx_example/lora-calm-3b-results
 kitazawa/lora-calm-3b
 kitazawa/lora-calm-3b-results
 kitazawa/dataset_tokenized
+
+kitazawa7b/lora*
+kitazawa7b/results
+kitazawa7b/dataset_tokenized
